@@ -28,7 +28,13 @@ width: 100% !important;    }
    }
    .footer p,.footer .images{
     padding: 0 !important;
+    flex-shrink: 2;   
+justify-content: flex-start;
+align-items: flex-start; 
+    
    }
+   
+
    .footer input {
    width: 30px;
    }

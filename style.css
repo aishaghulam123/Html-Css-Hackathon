@@ -20,7 +20,7 @@
     background-color: var(--main) !important;
    color: white;
 }
-.section{
+.section,.last .main{
     
     background-image: url(./images/bg.png);
     background-repeat: no-repeat;
