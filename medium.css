@@ -23,7 +23,8 @@ width: 100% !important;    }
         padding: 0 !important;
     }
    .footer {
-    padding: 0 !important;
+    padding: 2px !important;
+    text-align: left !important;
    }
    .footer p,.footer .images{
     padding: 0 !important;
@@ -34,6 +35,7 @@ width: 100% !important;    }
    .footer h3 {
     margin: 0 !important;
    }
+   footer{padding: 0 !important;}
 }
 
 
