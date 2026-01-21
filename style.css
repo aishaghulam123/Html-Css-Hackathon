@@ -94,7 +94,7 @@ section img{
 @keyframes right {
     from{
         opacity: 0;
-        transform: translatex(100px) ;
+        transform: translatex(70px) ;
     }
     
     to{
