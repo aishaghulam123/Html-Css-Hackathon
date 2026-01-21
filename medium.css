@@ -1,0 +1,54 @@
+ .hero .content,.hero .img{
+        width: 90% !important;
+        padding: 0 !important;
+        padding-top: 20px !important;
+    }
+.div .cotent{
+        position: static;
+        width: 100% !important;
+    }
+  .wrapper{
+    margin-top: 100px;
+}
+ .sports .content .cards img,.sports .content .cards .text{
+width: 100% !important;    }
+.post .content .my-img, .post .content .text{
+    width: 90% !important;
+}
+@media (max-width:480px) {
+    .last .main{padding: 0 !important;text-align: left; padding-bottom: 10px;}
+    .lats .main h1{
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+   .footer {
+    padding: 0 !important;
+   }
+   .footer p,.footer .images{
+    padding: 0 !important;
+   }
+   .footer input {
+   width: 30px;
+   }
+   .footer h3 {
+    margin: 0 !important;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* {} */
